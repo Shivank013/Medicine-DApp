@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Asus\\OneDrive\\Desktop\\Blockchain\\MedicineSupplyChain\\contracts\\meds.sol": {
+      "lastModificationDate": 1687919379279,
+      "contentHash": "612fc5de49472b25bedad2163d9e582b",
+      "sourceName": "contracts/meds.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "MedicineSupplyChain"
+      ]
+    }
+  }
+}
